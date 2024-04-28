@@ -3,7 +3,7 @@
 	"base"		"realism"
 	"maxplayers"    "4"
 	"DisplayTitle"	"Expert Alternative Realism"
-	"Description"	"Expert Alternative Realism is expert difficulty Realism mutated to be easier than expert, with normal common infected damage and attack intervals, as well as advanced friendly fire and tank hit damage."
+	"Description"	"Expert Alternative Realism is Expert difficulty Realism mutated to be easier than Expert, with Normal common infected damage and attack intervals, as well as Advanced friendly fire and tank hit damage."
         "ShortDescription"  "Expert difficulty Realism mutation with easier common infected, tanks, and friendly fire."
 	"Image"		"maps/any"
 	"Author"	"lowfye"
