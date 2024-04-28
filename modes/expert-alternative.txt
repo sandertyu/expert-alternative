@@ -1,0 +1,18 @@
+"expert-alternative"
+{
+	"base"		"coop"
+	"maxplayers"    "4"
+	"DisplayTitle"	"Expert Alternative"
+	"Description"	"Expert Alternative is expert difficulty mutated to be easier than expert, with normal common infected damage and attack intervals, as well as advanced friendly fire and tank hit damage."
+        "ShortDescription"  "Expert difficulty mutation with easier common infected, tanks, and friendly fire."
+	"Image"		"maps/any"
+	"Author"	"lowfye"
+
+        convar
+        {
+                z_throttle_hit_interval_expert 0.33
+                survivor_friendly_fire_factor_expert 0.1
+        }
+
+}
+
