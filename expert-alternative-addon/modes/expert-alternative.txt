@@ -3,8 +3,8 @@
 	"base"		"coop"
 	"maxplayers"    "4"
 	"DisplayTitle"	"Expert Alternative"
-	"Description"	"Expert Alternative is Expert difficulty mutated to be easier than Expert, with Normal common infected damage and attack intervals, as well as Advanced friendly fire and tank hit damage."
-        "ShortDescription"  "Expert difficulty mutation with easier common infected, tanks, and friendly fire."
+	"Description"	"Expert Alternative Mutation is Expert difficulty with easier common infected, tanks, and friendly fire, to emphasize the Expert director and special infected mechanics."
+        "ShortDescription"  "Expert difficulty Mutation with easier common infected, tanks, and friendly fire."
 	"Image"		"maps/any"
 	"Author"	"lowfye"
 

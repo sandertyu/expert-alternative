@@ -2,16 +2,17 @@
 {
 	addonSteamAppID		550
 	addontitle		"Expert Alternative"
-	addonversion		1.0
-	addontagline		"Expert difficulty mutations with easier common infected, tanks, and friendly fire."
+	addonversion		1.1
+	addontagline		"Expert difficulty Mutations with easier common infected, tanks, and friendly fire."
 	addonauthor		"lowfye"
 	addonSteamGroupName	""
 	addonauthorSteamID	"xyzasdf"
 	addonContent_Script     1
 	addonURL0		""
-	addonDescription	"Expert Alternative is Expert difficulty mutated to emphasize the Expert director and special infected mechanics. It is easier than Expert, with Normal common infected damage and attack intervals, as well as Advanced friendly fire and tank hit damage.
+	addonDescription	"Expert Alternative Mutations are Expert difficulty with easier common infected, tanks, and friendly fire, to emphasize the Expert director and special infected mechanics.
 - Difficulty is permanently set to Expert.
 - Common infected have Normal difficulty damage and attack intervals.
 - Tank hits do Advanced difficulty damage.
-- Friendly fire does Advanced difficulty damage."
+- Friendly fire does Advanced difficulty damage.
+- Includes additional Realism and L4D1 Mutations."
 }

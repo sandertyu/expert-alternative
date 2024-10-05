@@ -1,0 +1,18 @@
+"expert-alternative-realism-l4d1"
+{
+	"base"		"realism"
+	"maxplayers"    "4"
+	"DisplayTitle"	"Expert Alternative Realism L4D1"
+	"Description"	"Expert Alternative Realism L4D1 Mutation is Expert difficulty Realism L4D1 with easier common infected, tanks, and friendly fire, to emphasize the Expert director and special infected mechanics."
+        "ShortDescription"  "Expert difficulty Realism L4D1 Mutation with easier common infected, tanks, and friendly fire."
+	"Image"		"maps/any"
+	"Author"	"lowfye"
+
+        convar
+        {
+                z_throttle_hit_interval_expert 0.33
+                survivor_friendly_fire_factor_expert 0.1
+        }
+
+}
+
