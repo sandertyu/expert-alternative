@@ -6,4 +6,5 @@ Expert Alternative Mutations are Expert difficulty with easier common infected, 
 - Includes additional Realism and L4D1 Mutations.
 
 ---Changelog---
-- v1.0.0 Initial release.
+- v1.1 Include L4D1 and Realism L4D1 Mutations.
+- v1.0 Initial release.
