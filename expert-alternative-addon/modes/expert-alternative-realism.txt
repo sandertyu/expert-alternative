@@ -4,7 +4,7 @@
 	"maxplayers"    "4"
 	"DisplayTitle"	"Expert Alternative Realism"
 	"Description"	"Expert Alternative Realism Mutation is Expert difficulty Realism with easier common infected, tanks, and friendly fire, to emphasize the Expert director and special infected mechanics."
-        "ShortDescription"  "Expert difficulty Realism Mutation with easier common infected, tanks, and friendly fire."
+        "ShortDescription"  "Easier Expert difficulty Realism Mutation."
 	"Image"		"maps/any"
 	"Author"	"lowfye"
 

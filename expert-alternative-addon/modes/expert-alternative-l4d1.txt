@@ -4,7 +4,7 @@
 	"maxplayers"    "4"
 	"DisplayTitle"	"Expert Alternative L4D1"
 	"Description"	"Expert Alternative L4D1 Mutation is Expert difficulty L4D1 with easier common infected, tanks, and friendly fire, to emphasize the Expert director and special infected mechanics."
-        "ShortDescription"  "Expert difficulty L4D1 Mutation with easier common infected, tanks, and friendly fire."
+        "ShortDescription"  "Easier Expert difficulty L4D1 Mutation."
 	"Image"		"maps/any"
 	"Author"	"lowfye"
 
