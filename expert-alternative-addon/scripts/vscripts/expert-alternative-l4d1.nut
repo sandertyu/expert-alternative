@@ -12,7 +12,8 @@ function Update()
         }
 }
 
-// Valve L4D1 mutation code below
+// Valve L4D1 Mutation code below
+// https://developer.valvesoftware.com/wiki/Left_4_Dead_2/Scripting/Decrypted_mutations#L4d1
 //
 //============ Copyright (c) Valve Corporation, All rights reserved. ==========
 //
