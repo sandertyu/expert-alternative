@@ -1,0 +1,21 @@
+"friendly-tank-expert-realism"
+{
+	"base"		"realism"
+	"maxplayers"    "4"
+	"DisplayTitle"	"Friendly Tank Expert Realism"
+	"Description"	"- Difficulty is permanently set to Expert Realism.
+- Friendly fire does Advanced difficulty damage.
+- Common infected damage is halved.
+- Special infected base melee damage is halved.
+- Tank hit damage is halved."
+        "ShortDescription"  "Friendly Tank Expert difficulty Realism Mutation."
+	"Image"		"maps/any"
+	"Author"	"lowfye"
+
+        convar
+        {
+                survivor_friendly_fire_factor_expert 0.1
+        }
+
+}
+

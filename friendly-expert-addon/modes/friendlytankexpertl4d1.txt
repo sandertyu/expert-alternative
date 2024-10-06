@@ -1,16 +1,19 @@
-"expert-alternative-realism-l4d1"
+"friendly-tank-expert-l4d1"
 {
-	"base"		"realism"
+	"base"		"coop"
 	"maxplayers"    "4"
-	"DisplayTitle"	"Expert Alternative Realism L4D1"
-	"Description"	"Expert Alternative Realism L4D1 Mutation is Expert difficulty Realism L4D1 with easier common infected, tanks, and friendly fire, to emphasize the Expert director and special infected mechanics."
-        "ShortDescription"  "Easier Expert difficulty Realism L4D1 Mutation."
+	"DisplayTitle"	"Friendly Tank Expert L4D1"
+	"Description"	"- Difficulty is permanently set to Expert.
+- Friendly fire does Advanced difficulty damage.
+- Common infected damage is halved.
+- Special infected base melee damage is halved.
+- Tank hit damage is halved."
+        "ShortDescription"  "Friendly Tank Expert difficulty L4D1 Mutation."
 	"Image"		"maps/any"
 	"Author"	"lowfye"
 
         convar
         {
-                z_throttle_hit_interval_expert 0.33
                 survivor_friendly_fire_factor_expert 0.1
                 ammo_autoshotgun_max 128
                 ammo_shotgun_max 128

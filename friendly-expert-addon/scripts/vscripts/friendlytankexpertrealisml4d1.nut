@@ -1,7 +1,7 @@
 MutationOptions <-
 {
-        cm_BaseCommonAttackDamage = 0.1
-        TankHitDamageModifierCoop = 0.33
+        cm_BaseCommonAttackDamage = 0.5
+        TankHitDamageModifierCoop = 0.5
 }
 
 function Update()
@@ -14,12 +14,6 @@ function Update()
 
 // Valve L4D1 Mutation code below
 // https://developer.valvesoftware.com/wiki/Left_4_Dead_2/Scripting/Decrypted_mutations#L4d1
-//
-//============ Copyright (c) Valve Corporation, All rights reserved. ==========
-//
-//
-//=============================================================================
-Msg("Activating Mutation L4D1\n");
 
 if ( !IsModelPrecached( "models/infected/smoker_l4d1.mdl" ) )
 	PrecacheModel( "models/infected/smoker_l4d1.mdl" );

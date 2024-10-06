@@ -1,7 +1,6 @@
 MutationOptions <-
 {
-        cm_BaseCommonAttackDamage = 0.1
-        TankHitDamageModifierCoop = 0.33
+        cm_BaseCommonAttackDamage = 0.5
 }
 
 function Update()
