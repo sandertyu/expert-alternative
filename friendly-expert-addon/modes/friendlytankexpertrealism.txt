@@ -8,7 +8,7 @@
 - Common infected damage is halved.
 - Special infected base melee damage is halved.
 - Tank hit damage is halved."
-        "ShortDescription"  "Friendly Tank Expert difficulty Realism Mutation."
+        "ShortDescription"  "Friendly Tank Expert Difficulty Realism Mutation."
 	"Image"		"maps/any"
 	"Author"	"lowfye"
 

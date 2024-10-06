@@ -7,7 +7,7 @@
 - Friendly fire does Advanced difficulty damage.
 - Common infected damage is halved.
 - Special infected base melee damage is halved."
-        "ShortDescription"  "Friendly Expert difficulty Realism L4D1 Mutation."
+        "ShortDescription"  "Friendly Expert Difficulty Realism L4D1 Mutation."
 	"Image"		"maps/any"
 	"Author"	"lowfye"
 

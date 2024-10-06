@@ -1,4 +1,4 @@
-Friendly Expert Mutation is Expert difficulty with Advanced difficulty friendly fire damage, and halved Common and Special infected base melee damage.
+Friendly Expert Difficulty Mutations are Expert difficulty with Advanced friendly fire damage, and halved Common and Special infected base melee damage.
 - Difficulty is permanently set to Expert.
 - Friendly fire does Advanced difficulty damage.
 - Common infected damage is halved.
