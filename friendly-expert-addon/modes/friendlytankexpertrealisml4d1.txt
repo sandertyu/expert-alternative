@@ -3,10 +3,10 @@
 	"base"		"realism"
 	"maxplayers"    "4"
 	"DisplayTitle"	"Friendly Tank Expert Realism L4D1"
-	"Description"	"- Difficulty is permanently set to Expert Realism.
+	"Description"	"- Difficulty is always set to Expert Realism.
 - Friendly fire does Advanced difficulty damage.
-- Common infected damage is halved.
-- Special infected base melee damage is halved.
+- Common infected normal attack damage is halved.
+- Special infected normal attack damage is halved (Witch and Tank unaffected).
 - Tank hit damage is halved."
         "ShortDescription"  "Friendly Tank Expert Difficulty Realism L4D1 Mutation."
 	"Image"		"maps/any"
