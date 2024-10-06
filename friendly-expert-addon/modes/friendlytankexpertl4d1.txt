@@ -5,9 +5,8 @@
 	"DisplayTitle"	"Friendly Tank Expert L4D1"
 	"Description"	"- Difficulty is always set to Expert.
 - Friendly fire does Advanced difficulty damage.
-- Common infected normal attack damage is halved.
-- Special infected normal attack damage is halved (Witch and Tank unaffected).
-- Tank hit damage is halved."
+- Common and Special infected normal attack damage is halved (Witch and Tank unaffected).
+- Tank direct hit damage is halved."
         "ShortDescription"  "Friendly Tank Expert Difficulty L4D1 Mutation."
 	"Image"		"maps/any"
 	"Author"	"lowfye"

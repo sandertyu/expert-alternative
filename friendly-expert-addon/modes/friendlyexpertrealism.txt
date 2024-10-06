@@ -5,8 +5,7 @@
 	"DisplayTitle"	"Friendly Expert Realism"
 	"Description"	"- Difficulty is always set to Expert Realism.
 - Friendly fire does Advanced difficulty damage.
-- Common infected normal attack damage is halved.
-- Special infected normal attack damage is halved (Witch and Tank unaffected)."
+- Common and Special infected normal attack damage is halved (Witch and Tank unaffected)."
         "ShortDescription"  "Friendly Expert Difficulty Realism Mutation."
 	"Image"		"maps/any"
 	"Author"	"lowfye"
