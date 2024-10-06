@@ -1,4 +1,4 @@
-"friendly-tank-expert"
+"friendlytankexpert"
 {
 	"base"		"coop"
 	"maxplayers"    "4"

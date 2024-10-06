@@ -1,4 +1,4 @@
-"friendly-expert-realism"
+"friendlyexpertrealism"
 {
 	"base"		"realism"
 	"maxplayers"    "4"

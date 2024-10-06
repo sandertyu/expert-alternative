@@ -1,4 +1,4 @@
-"friendly-expert"
+"friendlyexpert"
 {
 	"base"		"coop"
 	"maxplayers"    "4"

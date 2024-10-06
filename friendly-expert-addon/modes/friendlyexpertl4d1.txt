@@ -1,4 +1,4 @@
-"friendly-expert-l4d1"
+"friendlyexpertl4d1"
 {
 	"base"		"coop"
 	"maxplayers"    "4"
