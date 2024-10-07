@@ -6,7 +6,10 @@ Friendly Expert Difficulty Mutations are Expert difficulty with Advanced friendl
 - Includes Friendly Tank Expert with halved Tank direct hit damage.
 
 ---Changelog---
+- v1.2 Increase Infected damage, include Friendly Tank Expert Mutations.
 - v1.1 Include L4D1 and Realism L4D1 Mutations.
 - v1.0 Initial release.
+
+Inspired by Veteran Difficulty by Olde
 
 https://github.com/sandertyu/friendly-expert-difficulty
