@@ -5,7 +5,7 @@
 	"DisplayTitle"	"Friendly Expert Realism L4D1"
 	"Description"	"- Difficulty is always set to Expert Realism.
 - Friendly fire does Advanced difficulty damage.
-- Common and Special infected normal attack damage is halved (Witch and Tank unaffected)."
+- Infected melee attack damage is halved (Witch, Tank, and SI Abilities unaffected)."
         "ShortDescription"  "Friendly Expert Difficulty Realism L4D1 Mutation."
 	"Image"		"maps/any"
 	"Author"	"lowfye"
